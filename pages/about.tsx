@@ -3,7 +3,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div className="container mx-auto flex flex-col items-start px-5 mt-6 max-w-5xl min-h-[140vh] md:min-h-screen ">
+    <div className="container mx-auto flex flex-col items-start px-5 mt-6 max-w-5xl min-h-[200vh] md:min-h-screen ">
       <div className="bg-[#60A5FA] h-[120px] top-36 right-20 absolute w-[120px] rounded-full blur-[90px] filter "></div>
       <div className="bg-[#60A5FA] h-[120px] top-[200px] right-[200px] absolute w-[120px] rounded-full blur-[90px] filter "></div>
       <h1 className="SpaceGroteskBold text-[64px]">About Me 👨‍</h1>
